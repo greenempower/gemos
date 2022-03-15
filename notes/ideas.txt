@@ -1,0 +1,14 @@
+---
+a document / study area
+
+actually this should be a special web browser instance,
+maybe using Falkon and seperate from the X layer browser
+---
+
+---
+a new browser engine to challenge chromium hegemony
+---
+
+---
+3D and interactive elements should be intergated deeply into the X layer
+---

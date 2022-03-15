@@ -1,0 +1,9 @@
+[submodule "mods/gemv"]
+	path = mods/gemv
+	url = git@github.com:holdengreen/gemv.git
+[submodule "mods/env"]
+	path = mods/env
+	url = git@github.com:greenempower/gemos-env.git
+[submodule "site/out"]
+	path = site/out
+	url = git@github.com:greenempower/gemos.org.git

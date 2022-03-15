@@ -1,0 +1,6 @@
+--- node concept ---
+
+a node should be customizable and deployable to many different machine types,
+it should contain a VM instance with some set of interfaces and modules
+
+spec levels will be defined

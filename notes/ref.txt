@@ -1,0 +1,4 @@
+https://sci-hub.se/
+
+tech:
+- https://wayland.freedesktop.org/

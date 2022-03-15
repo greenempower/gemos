@@ -1,0 +1,9 @@
+<p>
+#!
+echo GEM OS
+#!
+</p>
+
+<p>This is the primary software system of <a href="http://greenempower.org">GEM</a></p>
+<p>Currently it has a V layer which should run in a Linux countainer or special VM and the X layer which sits on that context and exposes several interfaces and a VM.</p>
+<p>I have not yet made the source public but I'll draft on this site.</p>

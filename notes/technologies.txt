@@ -1,0 +1,5 @@
+
+- lxc
+    - https://linuxcontainers.org/
+- docker
+- qemu

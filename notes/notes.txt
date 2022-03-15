@@ -1,0 +1,8 @@
+--- begin
+--- I am interested in mkws (https://mkws.sh/) for generating gemos.org
+
+--- each user of this system should generate an identity and key pair
+
+--- I should list a number of upstream servers for this system
+
+--- and there should be an onboarding process within the interface
