@@ -1,0 +1,20 @@
+the GEMx system should not include a native development environment,
+that should be a part of this external development environment,
+
+but apps in GEMx can query for a platform types like they do in Python for example
+
+the primary plaforms should include:
+- virtualized (GEMx on a Yocto Linux build in QEMU)
+- browser     (GEMx in a browser with web assembly)
+- mobile      (GEMx in a mobile application similar to browser)
+
+potential platforms:
+- embedded    (GEMx node for constrained environments)
+
+
+applications should manage compatibility by picking the least system version and platform,
+and they should make sure that their application runs it's core tasks in that context,
+while using queries to support extra features
+
+embedded is the most constrained environment, then browser, and then virtualized is the least constrained
+mobile may come after browser but that is left to be seen

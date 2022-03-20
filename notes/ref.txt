@@ -1,4 +1,10 @@
 https://sci-hub.se/
 
+platforms:
+- https://browsix.org/
+
 tech:
 - https://wayland.freedesktop.org/
+
+https://www.nexedi.com/news/NXD.Blog.WebLinux
+https://wiki.osdev.org/WebAssembly
