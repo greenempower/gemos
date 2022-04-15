@@ -12,3 +12,9 @@ a new browser engine to challenge chromium hegemony
 ---
 3D and interactive elements should be intergated deeply into the X layer
 ---
+
+---
+maybe similar to Java and Android, GEMOS/GEMx should have seperate development and runtime packages,
+development 'kit' could include productive tools for editing, design and debugging,
+the runtime is slimed down and meant just for running end user apps
+---
